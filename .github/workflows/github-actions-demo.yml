@@ -12,7 +12,7 @@
 name: "CodeQL"
 
 on:
-  workflow_despatch:
+  workflow_dispatch:
 
 jobs:
   analyze:
